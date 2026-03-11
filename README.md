@@ -8,7 +8,6 @@
 ![React](https://skillicons.dev/icons?i=react)
 ![Node](https://skillicons.dev/icons?i=nodejs)
 ![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO)
