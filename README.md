@@ -6,7 +6,7 @@
 ## 🚀 Tecnologias
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
-![Node](https://skillicons.dev/icons?i=nodejs)
+![SQL](https://skillicons.dev/icons?i=mysql)
 ![Java](https://skillicons.dev/icons?i=java)
 
 ## 📊 GitHub Stats
